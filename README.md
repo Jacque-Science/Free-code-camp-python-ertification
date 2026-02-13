@@ -13,7 +13,6 @@ A validation engine that generates visual stat bars for game characters.
 An implementation of the classic substitution cipher that handles both encryption and decryption.
 * **Concepts:** String translation tables, alphabet slicing, and modular logic.
 * **File:** `caesar_cipher.ipynb`
-
 ---
 
 ## 🛠️ How to Run
